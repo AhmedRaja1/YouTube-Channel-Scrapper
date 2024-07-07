@@ -1,6 +1,8 @@
 # YouTube-Channel-Scrapper
 YouTube Channel All Videos Info like Name, Views &amp; Link
 
+https://www.youtube.com/watch?v=PxbRBqWmqas
+
 
 How to Get/Export/Copy/Extract Titles, URLs and Views of any YouTube Channel without needing to install anything and just using your browser. This can video can help you a lot in order to extract all titles, URLs and views of the YouTube videos from any channel
 
